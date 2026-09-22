@@ -1,0 +1,195 @@
+{
+  "name": "UP Scholarship",
+  "legal_name": "upscholarships.in",
+  "url": "https://upscholarships.in/",
+  "description": "Independent educational information website providing clear, step-by-step guidance on UP Scholarship (Uttar Pradesh Scholarship) 2026-27 - covering OTR registration, online application, login, status check, last date, renewal, payment, correction, eligibility, required documents, PFMS status and NPCI/Aadhaar bank linking.",
+  "type": "Educational Information Website",
+  "audience": "Students and guardians in Uttar Pradesh, India applying for or managing government scholarships",
+  "languages": ["hi", "en"],
+  "is_official_government_site": false,
+  "official_related_portal": "https://scholarship.up.gov.in/",
+  "disclaimer": "This site does not process applications, registrations or payments. All official scholarship actions must be completed on the official Uttar Pradesh Scholarship portal at scholarship.up.gov.in.",
+  "contact": {
+    "about_url": "https://upscholarships.in/about-us/",
+    "contact_url": "https://upscholarships.in/contact-us/"
+  },
+  "legal": {
+    "privacy_policy_url": "https://upscholarships.in/privacy-policy/",
+    "terms_url": "https://upscholarships.in/terms-and-conditions/",
+    "disclaimer_url": "https://upscholarships.in/disclaimer/"
+  },
+  "topics": [
+    "UP Scholarship",
+    "UP Scholarship 2026-27",
+    "UP Scholarship OTR",
+    "UP Scholarship Registration",
+    "UP Scholarship Login",
+    "UP Scholarship Status",
+    "UP Scholarship Last Date",
+    "UP Scholarship Renewal",
+    "UP Scholarship Payment",
+    "PFMS Status",
+    "NPCI Aadhaar Bank Linking",
+    "DBT Payment",
+    "Scholarship Correction",
+    "Scholarship Eligibility",
+    "Scholarship Helpline"
+  ],
+  "resources": [
+    {
+      "name": "UP Scholarship 2026-27 - Complete Guide",
+      "url": "https://upscholarships.in/",
+      "category": "Main Guide",
+      "description": "Complete guide to UP Scholarship 2026-27 covering OTR registration, apply online, login, last date, status check, renewal, payment, correction, eligibility and documents."
+    },
+    {
+      "name": "UP Scholarship OTR Registration",
+      "url": "https://upscholarships.in/up-scholarship-otr/",
+      "category": "OTR",
+      "description": "Step-by-step guide for UP Scholarship One Time Registration (OTR), mobile number authentication, Aadhaar e-KYC and OTR number generation."
+    },
+    {
+      "name": "NSP OTR Registration",
+      "url": "https://upscholarships.in/nsp-otr-registration/",
+      "category": "OTR",
+      "description": "Guide to National Scholarship Portal (NSP) One Time Registration process for students."
+    },
+    {
+      "name": "NSP vs UP Scholarship - Apply Both Rules",
+      "url": "https://upscholarships.in/nsp-vs-up-scholarship-apply-both-rules/",
+      "category": "OTR",
+      "description": "Explains the rules and differences for applying to both the National Scholarship Portal and UP Scholarship portal."
+    },
+    {
+      "name": "UP Scholarship OTR Number Recovery",
+      "url": "https://upscholarships.in/up-scholarship-otr-number-forgot-recover/",
+      "category": "OTR",
+      "description": "Guide for students who have forgotten or lost their UP Scholarship OTR number and want to recover it."
+    },
+    {
+      "name": "UP Scholarship Registration",
+      "url": "https://upscholarships.in/up-scholarship-registration/",
+      "category": "Registration",
+      "description": "Complete guide to UP Scholarship fresh registration and online application for Pre-Matric, Intermediate and Post-Matric students."
+    },
+    {
+      "name": "UP Scholarship Registration Number - How to Find",
+      "url": "https://upscholarships.in/up-scholarship-registration-number-kaise-pata-kare/",
+      "category": "Registration",
+      "description": "Guide explaining how students can find their UP Scholarship registration number."
+    },
+    {
+      "name": "UP Scholarship Old Registration Number Find",
+      "url": "https://upscholarships.in/up-scholarship-old-registration-number-find/",
+      "category": "Registration",
+      "description": "Guide for students who have forgotten or lost their previous year's UP Scholarship registration number."
+    },
+    {
+      "name": "UP Scholarship Last Date 2026-27",
+      "url": "https://upscholarships.in/up-scholarship-last-date/",
+      "category": "Dates",
+      "description": "UP Scholarship fresh and renewal application dates, correction dates, hard-copy submission dates and payment schedule."
+    },
+    {
+      "name": "UP Scholarship Login",
+      "url": "https://upscholarships.in/up-scholarship-login/",
+      "category": "Login",
+      "description": "Guide to logging into the UP Scholarship student portal for fresh and renewal applicants."
+    },
+    {
+      "name": "UP Scholarship Password Change / Reset Guide",
+      "url": "https://upscholarships.in/up-scholarship-password-change-reset-guide/",
+      "category": "Login",
+      "description": "Step-by-step guide to changing or resetting a forgotten UP Scholarship account password."
+    },
+    {
+      "name": "UP Scholarship Status 2026",
+      "url": "https://upscholarships.in/up-scholarship-status/",
+      "category": "Status & Payment",
+      "description": "Guide to checking UP Scholarship fresh, renewal, application, verification and payment status."
+    },
+    {
+      "name": "PFMS Status for UP Scholarship",
+      "url": "https://upscholarships.in/pfms-status-up-scholarship/",
+      "category": "Status & Payment",
+      "description": "Guide to checking UP Scholarship payment and DBT (Direct Benefit Transfer) status through PFMS."
+    },
+    {
+      "name": "NPCI Aadhaar Bank Linking for UP Scholarship",
+      "url": "https://upscholarships.in/npci-aadhaar-bank-linking-up-scholarship/",
+      "category": "Status & Payment",
+      "description": "Information and guidance about Aadhaar-bank linking, NPCI seeding and DBT payment requirements for scholarship disbursal."
+    },
+    {
+      "name": "NPCI Bank Seeding Status Check",
+      "url": "https://upscholarships.in/npci-bank-seeding-status-check/",
+      "category": "Status & Payment",
+      "description": "Guide to checking NPCI bank seeding status required for scholarship payment via DBT."
+    },
+    {
+      "name": "Aadhaar Bank Seeding Status Check",
+      "url": "https://upscholarships.in/aadhaar-bank-seeding-status-check/",
+      "category": "Status & Payment",
+      "description": "Guide to checking Aadhaar bank seeding status needed for receiving scholarship payments."
+    },
+    {
+      "name": "UP Scholarship Helpline Number",
+      "url": "https://upscholarships.in/up-scholarship-helpline-number/",
+      "category": "Student Help",
+      "description": "UP Scholarship helpline and contact information for common application, status and payment-related problems."
+    },
+    {
+      "name": "UP Sanskrit Scholarship 2026-27",
+      "url": "https://upscholarships.in/up-sanskrit-scholarship/",
+      "category": "Related Scholarships",
+      "description": "Information about UP Sanskrit Scholarship 2026-27, including application, eligibility, important dates, status and payment."
+    },
+    {
+      "name": "SBI Asha Scholarship 2026 - Apply Online",
+      "url": "https://upscholarships.in/sbi-asha-scholarship-2026-apply-online/",
+      "category": "Related Scholarships",
+      "description": "Guide to applying online for the SBI Asha Scholarship 2026, including eligibility and application process."
+    },
+    {
+      "name": "Latest Updates",
+      "url": "https://upscholarships.in/latest-updates/",
+      "category": "News",
+      "description": "Latest news, notifications and updates related to UP Scholarship."
+    },
+    {
+      "name": "About Us",
+      "url": "https://upscholarships.in/about-us/",
+      "category": "Legal & Contact",
+      "description": "Information about upscholarships.in, its purpose and the team behind the website."
+    },
+    {
+      "name": "Contact Us",
+      "url": "https://upscholarships.in/contact-us/",
+      "category": "Legal & Contact",
+      "description": "How to reach out to upscholarships.in with questions, feedback or corrections."
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "https://upscholarships.in/privacy-policy/",
+      "category": "Legal & Contact",
+      "description": "How upscholarships.in collects, uses and protects visitor data."
+    },
+    {
+      "name": "Terms and Conditions",
+      "url": "https://upscholarships.in/terms-and-conditions/",
+      "category": "Legal & Contact",
+      "description": "Terms of use for upscholarships.in."
+    },
+    {
+      "name": "Disclaimer",
+      "url": "https://upscholarships.in/disclaimer/",
+      "category": "Legal & Contact",
+      "description": "Disclaimer clarifying that upscholarships.in is an independent information site and not an official government portal."
+    }
+  ],
+  "official_portal": {
+    "name": "UP Scholarship Official Portal",
+    "url": "https://scholarship.up.gov.in/",
+    "description": "Official Uttar Pradesh Scholarship and Fee Reimbursement Online System where all applications, registrations and payments must be completed."
+  }
+}
