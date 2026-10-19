@@ -3,5 +3,3 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://upscholarships.in/sitemap_index.xml
-
-# updated
